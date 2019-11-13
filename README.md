@@ -42,4 +42,5 @@ b) Máquinas virtuales
 c) En nuestro data center de manera on-premises
 d) Equipo local
 
-<img src="./dashboard.png" alt="drawing" height="350"/>
+<img src="./dashboard.png" alt="drawing" height="auto"
+width="100%"/>
