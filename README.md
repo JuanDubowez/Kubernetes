@@ -42,5 +42,6 @@ b) Máquinas virtuales
 c) En nuestro data center de manera on-premises
 d) Equipo local
 
+<h4>Dashboard de Kubernetes</h4>
 <img src="./dashboard.png" alt="drawing" height="auto"
 width="100%"/>
