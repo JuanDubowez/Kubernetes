@@ -37,9 +37,13 @@ height="350" />
 <h4>Comenzar a usar K8s</h4>
 
 Decidir dónde ejecutar Kubernetes. Dependiendo de nuestros recursos, características del cluster y flexibilidad necesaria.
+
 a) En la nube mediante un cloud provider
+
 b) Máquinas virtuales
+
 c) En nuestro data center de manera on-premises
+
 d) Equipo local
 
 <h4>Dashboard de Kubernetes</h4>
